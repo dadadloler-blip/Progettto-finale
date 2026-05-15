@@ -1,5 +1,5 @@
 Gioco di traduzione
-
+(fatto da Maxim)
 
 
 # Le librerie che utilizzerò
